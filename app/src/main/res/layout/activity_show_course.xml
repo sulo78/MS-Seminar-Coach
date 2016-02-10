@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.janhilbig.hawcoursecoach.Activities.ShowSeminarActivity" android:background="@color/dark_background_color">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:drawSelectorOnTop="true"
+        android:background="@color/dark_background_color"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+        <TextView
+            android:id="@+id/empty_courselist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse"
+            android:text="In diesem Semester sind noch keine Seminare vorhanden. Füge neue Seminare mit dem + Zeichen in der Action Bar hinzu. Zum Löschen eines Eintrags, halte ihn lange gedrückt."/>
+
+    </LinearLayout>
+
+</RelativeLayout>

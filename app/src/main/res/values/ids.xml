@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dynamic_textview_mo" type="id"/>
+    <item name="dynamic_textview_di" type="id"/>
+    <item name="dynamic_textview_mi" type="id"/>
+    <item name="dynamic_textview_do" type="id"/>
+    <item name="dynamic_textview_fr" type="id"/>
+    <item name="dynamic_spinner_mo" type="id"/>
+    <item name="dynamic_spinner_di" type="id"/>
+    <item name="dynamic_spinner_mi" type="id"/>
+    <item name="dynamic_spinner_do" type="id"/>
+    <item name="dynamic_spinner_fr" type="id"/>
+</resources>

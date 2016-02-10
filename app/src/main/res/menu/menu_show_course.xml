@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.janhilbig.hawcoursecoach.Activities.ShowSeminarActivity">
+    <item android:id="@+id/add_seminar" android:title="Add Course"
+        android:orderInCategory="100" android:icon="@mipmap/ic_plus"
+        app:showAsAction="always" />
+</menu>

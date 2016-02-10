@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MS Seminar Coach</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="heading_1">Titel:</string>
+    <string name="heading_2">Erster Vorlesungstag:</string>
+    <string name="heading_3">Letzter Vorlesungstag:</string>
+    <string name="heading_4">Wochentag:</string>
+    <string name="heading_5">Stundenblock:</string>
+    <string name="title_button_create">Speichern</string>
+
+    <!--Activity Names-->
+    <string name="title_activity_show_semester">Semester</string>
+    <string name="title_activity_create_semester">Semester erstellen</string>
+
+    <string name="title_activity_show_course">Seminare</string>
+    <string name="title_activity_create_seminar">Seminar erstellen</string>
+
+    <string name="title_activity_haw_map">Kartenansicht: EG Finkenau 35</string>
+
+</resources>

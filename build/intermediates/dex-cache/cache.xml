@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\classes-2d9363657dd231e8e61650c97526cb3bd07b3bce.jar" />
+    </item>
+    <item
+        jar="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\libs\svg-android-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f7c80e87e9925b691875dc9388869d87515f7d2">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\svg-android-1.1-2483bf3834682960a47368e78a18f351542f2c5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\suloUser\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-cfc0bf7ad52126dd6058e7e034f06338e0d70ba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-f3f528dce2123c59ea8b1cd5b853ba8d7e475efb.jar" />
+    </item>
+    <item
+        jar="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e75f1ad43fbaff21262ec4f3798bcbc34d672fe">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\classes-3cf829350090c179c61264ea26f45d37d28db8cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\suloUser\AndroidStudioProjects\HAWCourseCoach\app\build\intermediates\pre-dexed\debug\classes-48853218c99906d98b164d7c3df3c5cfa051e34a.jar" />
+    </item>
+
+</items>

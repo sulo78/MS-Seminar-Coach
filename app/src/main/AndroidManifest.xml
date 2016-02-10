@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.janhilbig.hawcoursecoach" >
+
+    <application
+        android:name=".MsSeminarCoach"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <!-- Bluetooth permissions -->
+        <uses-permission android:name="android.permission.BLUETOOTH"/>
+        <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+
+
+
+        <receiver
+            android:name=".ReminderService"
+             />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter android:label="@string/app_name">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Forms.CreateSemesterActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_create_semester"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Activities.HawMapActivity"
+            android:label="@string/title_activity_haw_map" >
+        </activity>
+        <activity
+            android:name=".Activities.ShowSemesterActivity"
+            android:label="@string/title_activity_show_semester">
+        </activity>
+        <activity
+            android:name=".Activities.ShowSeminarActivity"
+            android:label="@string/title_activity_show_course" >
+        </activity>
+        <activity
+            android:name=".Forms.CreateSeminarActivity"
+            android:label="@string/title_activity_create_seminar" >
+        </activity>
+    </application>
+
+</manifest>
